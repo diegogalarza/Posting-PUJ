@@ -4,7 +4,7 @@ _The purpose of the Postgraduate Degree Outreach (SDP in Spanish, Sistema de Div
 ## Content
 * **GUI** - Folder with all the HTML files to run and see the final result of the web page.
 * **DB_link** - Folder of Java connections of the DB with the FrontEnd.
-* **Diagrams** - MR diagram, Use Case diagram, Physical Architecture, Logical Architecture and GUI Mockups.
+* **Diagrams** - Folder with: MR diagram, Use Case diagram, Physical Architecture, Logical Architecture and GUI Mockups.
 * **SDP_GALARZA_OSPINA.sql** - DB table creator file.
 * **SRS - SISTEMA DE DIVULGACIÓN.pdf** - Detailed explanation of the project (in Spanish).
 
