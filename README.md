@@ -17,4 +17,4 @@ _The purpose of the Postgraduate Degree Outreach (SDP in Spanish, Sistema de Div
 
 ## Authors
 * **Diego F. Galarza** - *FrontEnd Programming and Visual content* - [diegogalarza](https://github.com/diegogalarza)
-* **Victor M. Ospina** - *BackEnd Programming and linking* - [](https://github.com/)
+* **Victor M. Ospina** - *BackEnd Programming and linking* - [VictorO98](https://github.com/VictorO98)
