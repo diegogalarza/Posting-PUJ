@@ -1,0 +1,48 @@
+body{background-color: #FFFFFF; margin: 0, padding: 0;}
+
+
+.container {
+  width: 80%;
+  max-width: 800px;
+  margin: 50px auto;
+}
+
+button.accordion {
+  width: 100%;
+  background-color: #043f82;
+  border: none;
+  outline: none;
+  text-align: left;
+  padding: 15px 20px;
+  font-size: 16px;
+  font-family: Georgia,"Times New Roman",Times,serif;
+  color: #fedb00;
+  cursor: pointer;
+  transition: background-color 0.2s linear;
+}
+
+button.accordion:after {
+  content: '\f055';
+  font-family: "fontawesome";
+  font-size: 14px;
+  float: right;
+}
+
+button.accordion.is-open:after {
+  content: '\f056';
+}
+
+button.accordion:hover, button.accordion.is-open {
+  background-color: #7ea7d6;
+}
+
+.accordion-content {
+  background-color: white;
+  border-left: 5px solid #043f82;
+  border-right: 1px solid whitesmoke;
+  padding: 0 20px;
+  max-height: 0;
+  font-size: 20px;
+  overflow: hidden;
+  transition: max-height 0.2s ease-in-out;
+}
